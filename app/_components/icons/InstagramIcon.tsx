@@ -17,4 +17,4 @@ export const InstagramIcon = (props: ComponentPropsWithoutRef<"svg"> & {size?: n
     </g>
 </svg>
     )
-}
+}  

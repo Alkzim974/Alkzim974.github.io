@@ -2,7 +2,7 @@ import { Card } from "@/components/ui/card";
 import { Section } from "./Section";
 import { Biohazard, Cake, Code, LucideIcon, School } from "lucide-react";
 import ContactModal from "./ContactModal";
-import { Button } from "@/components/ui/button";
+
 
 export const Status = () => {
     return (

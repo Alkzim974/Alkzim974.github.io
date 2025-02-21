@@ -26,7 +26,7 @@ export const Hero = () => {
             </div>
             <div className="flex-[2] max-md:m-auto ml-auto">
                 <img 
-                    src="https://avatars.githubusercontent.com/u/174027090?v=4g" 
+                    src="./img/Photo-Profil.jpg" 
                     className="w-full h-auto max-w-sm max-md:w-56 rounded-full " 
                     alt="Alexandre's picture" 
                 />
